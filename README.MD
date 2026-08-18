@@ -46,14 +46,17 @@ You are meant to write a small application for the computer that retrieves the w
 The T4-S3 has built-in Wi-Fi, but it cannot connect to eduroam. Use another
 network or a phone hotspot.
 
-Set these values near the top of `project/project.ino`:
+Add or modify the `project/secrets.h` file, then set the SSID
+(network name) and password.
 
 ```cpp
 static const char* WIFI_SSID     = "SSID";
 static const char* WIFI_PASSWORD = "PWD";
 ```
 
-Never commit real credentials to GitHub. Replace them with placeholders first.
+Never commit real credentials to GitHub. `project/secrets.h` is excluded by
+the supplied `.gitignore`.
+
 
 ---
 
