@@ -1,0 +1,632 @@
+{
+  "timestamp": "2026-09-24T07:25:50",
+  "query": {
+    "queryTime": "2026-09-24T07:25:00",
+    "query": "740032188"
+  },
+  "stops": [
+    {
+      "id": "24505",
+      "name": "Campus Gräsvik",
+      "lat": 56.180634,
+      "lon": 15.592908,
+      "transport_modes": [
+        "BUS"
+      ],
+      "alerts": []
+    }
+  ],
+  "departures": [
+    {
+      "scheduled": "2026-09-24T07:20:39",
+      "realtime": "2026-09-24T07:25:13",
+      "delay": 274,
+      "canceled": false,
+      "route": {
+        "name": null,
+        "designation": "1",
+        "transport_mode_code": 700,
+        "transport_mode": "BUS",
+        "direction": "Saltö",
+        "origin": {
+          "id": "24508",
+          "name": "Lyckeby Slottsbacken"
+        },
+        "destination": {
+          "id": "24181",
+          "name": "Saltö"
+        }
+      },
+      "trip": {
+        "trip_id": "103001000021000001",
+        "start_date": "2026-09-24",
+        "technical_number": 21
+      },
+      "agency": {
+        "id": "505000000000000010",
+        "name": "Blekinge",
+        "operator": "Connect Bus"
+      },
+      "stop": {
+        "id": "24505",
+        "name": "Campus Gräsvik",
+        "lat": 56.180634,
+        "lon": 15.592908
+      },
+      "scheduled_platform": {
+        "id": "9022050024505001",
+        "designation": "A"
+      },
+      "realtime_platform": {
+        "id": "9022050024505001",
+        "designation": "A"
+      },
+      "alerts": [],
+      "is_realtime": true
+    },
+    {
+      "scheduled": "2026-09-24T07:27:16",
+      "realtime": "2026-09-24T07:27:21",
+      "delay": 5,
+      "canceled": false,
+      "route": {
+        "name": null,
+        "designation": "1",
+        "transport_mode_code": 700,
+        "transport_mode": "BUS",
+        "direction": "Lyckeby",
+        "origin": {
+          "id": "24181",
+          "name": "Saltö"
+        },
+        "destination": {
+          "id": "24508",
+          "name": "Lyckeby Slottsbacken"
+        }
+      },
+      "trip": {
+        "trip_id": "103001000020000001",
+        "start_date": "2026-09-24",
+        "technical_number": 20
+      },
+      "agency": {
+        "id": "505000000000000010",
+        "name": "Blekinge",
+        "operator": "Connect Bus"
+      },
+      "stop": {
+        "id": "24505",
+        "name": "Campus Gräsvik",
+        "lat": 56.180634,
+        "lon": 15.592908
+      },
+      "scheduled_platform": {
+        "id": "9022050024505002",
+        "designation": "B"
+      },
+      "realtime_platform": {
+        "id": "9022050024505002",
+        "designation": "B"
+      },
+      "alerts": [],
+      "is_realtime": true
+    },
+    {
+      "scheduled": "2026-09-24T07:30:39",
+      "realtime": "2026-09-24T07:32:52",
+      "delay": 133,
+      "canceled": false,
+      "route": {
+        "name": null,
+        "designation": "1",
+        "transport_mode_code": 700,
+        "transport_mode": "BUS",
+        "direction": "Saltö",
+        "origin": {
+          "id": "24508",
+          "name": "Lyckeby Slottsbacken"
+        },
+        "destination": {
+          "id": "24181",
+          "name": "Saltö"
+        }
+      },
+      "trip": {
+        "trip_id": "103001000023000001",
+        "start_date": "2026-09-24",
+        "technical_number": 23
+      },
+      "agency": {
+        "id": "505000000000000010",
+        "name": "Blekinge",
+        "operator": "Connect Bus"
+      },
+      "stop": {
+        "id": "24505",
+        "name": "Campus Gräsvik",
+        "lat": 56.180634,
+        "lon": 15.592908
+      },
+      "scheduled_platform": {
+        "id": "9022050024505001",
+        "designation": "A"
+      },
+      "realtime_platform": {
+        "id": "9022050024505001",
+        "designation": "A"
+      },
+      "alerts": [],
+      "is_realtime": true
+    },
+    {
+      "scheduled": "2026-09-24T07:37:16",
+      "realtime": "2026-09-24T07:39:19",
+      "delay": 123,
+      "canceled": false,
+      "route": {
+        "name": null,
+        "designation": "1",
+        "transport_mode_code": 700,
+        "transport_mode": "BUS",
+        "direction": "Lyckeby",
+        "origin": {
+          "id": "24181",
+          "name": "Saltö"
+        },
+        "destination": {
+          "id": "24508",
+          "name": "Lyckeby Slottsbacken"
+        }
+      },
+      "trip": {
+        "trip_id": "103001000022000001",
+        "start_date": "2026-09-24",
+        "technical_number": 22
+      },
+      "agency": {
+        "id": "505000000000000010",
+        "name": "Blekinge",
+        "operator": "Connect Bus"
+      },
+      "stop": {
+        "id": "24505",
+        "name": "Campus Gräsvik",
+        "lat": 56.180634,
+        "lon": 15.592908
+      },
+      "scheduled_platform": {
+        "id": "9022050024505002",
+        "designation": "B"
+      },
+      "realtime_platform": {
+        "id": "9022050024505002",
+        "designation": "B"
+      },
+      "alerts": [],
+      "is_realtime": true
+    },
+    {
+      "scheduled": "2026-09-24T07:40:39",
+      "realtime": "2026-09-24T07:41:56",
+      "delay": 77,
+      "canceled": false,
+      "route": {
+        "name": null,
+        "designation": "1",
+        "transport_mode_code": 700,
+        "transport_mode": "BUS",
+        "direction": "Saltö",
+        "origin": {
+          "id": "24508",
+          "name": "Lyckeby Slottsbacken"
+        },
+        "destination": {
+          "id": "24181",
+          "name": "Saltö"
+        }
+      },
+      "trip": {
+        "trip_id": "103001000025000001",
+        "start_date": "2026-09-24",
+        "technical_number": 25
+      },
+      "agency": {
+        "id": "505000000000000010",
+        "name": "Blekinge",
+        "operator": "Connect Bus"
+      },
+      "stop": {
+        "id": "24505",
+        "name": "Campus Gräsvik",
+        "lat": 56.180634,
+        "lon": 15.592908
+      },
+      "scheduled_platform": {
+        "id": "9022050024505001",
+        "designation": "A"
+      },
+      "realtime_platform": {
+        "id": "9022050024505001",
+        "designation": "A"
+      },
+      "alerts": [],
+      "is_realtime": true
+    },
+    {
+      "scheduled": "2026-09-24T07:47:16",
+      "realtime": "2026-09-24T07:47:47",
+      "delay": 31,
+      "canceled": false,
+      "route": {
+        "name": null,
+        "designation": "1",
+        "transport_mode_code": 700,
+        "transport_mode": "BUS",
+        "direction": "Lyckeby",
+        "origin": {
+          "id": "24181",
+          "name": "Saltö"
+        },
+        "destination": {
+          "id": "24508",
+          "name": "Lyckeby Slottsbacken"
+        }
+      },
+      "trip": {
+        "trip_id": "103001000024000001",
+        "start_date": "2026-09-24",
+        "technical_number": 24
+      },
+      "agency": {
+        "id": "505000000000000010",
+        "name": "Blekinge",
+        "operator": "Connect Bus"
+      },
+      "stop": {
+        "id": "24505",
+        "name": "Campus Gräsvik",
+        "lat": 56.180634,
+        "lon": 15.592908
+      },
+      "scheduled_platform": {
+        "id": "9022050024505002",
+        "designation": "B"
+      },
+      "realtime_platform": {
+        "id": "9022050024505002",
+        "designation": "B"
+      },
+      "alerts": [],
+      "is_realtime": true
+    },
+    {
+      "scheduled": "2026-09-24T07:50:39",
+      "realtime": "2026-09-24T07:51:02",
+      "delay": 23,
+      "canceled": false,
+      "route": {
+        "name": null,
+        "designation": "1",
+        "transport_mode_code": 700,
+        "transport_mode": "BUS",
+        "direction": "Saltö",
+        "origin": {
+          "id": "24508",
+          "name": "Lyckeby Slottsbacken"
+        },
+        "destination": {
+          "id": "24181",
+          "name": "Saltö"
+        }
+      },
+      "trip": {
+        "trip_id": "103001000027000001",
+        "start_date": "2026-09-24",
+        "technical_number": 27
+      },
+      "agency": {
+        "id": "505000000000000010",
+        "name": "Blekinge",
+        "operator": "Connect Bus"
+      },
+      "stop": {
+        "id": "24505",
+        "name": "Campus Gräsvik",
+        "lat": 56.180634,
+        "lon": 15.592908
+      },
+      "scheduled_platform": {
+        "id": "9022050024505001",
+        "designation": "A"
+      },
+      "realtime_platform": {
+        "id": "9022050024505001",
+        "designation": "A"
+      },
+      "alerts": [],
+      "is_realtime": true
+    },
+    {
+      "scheduled": "2026-09-24T07:57:16",
+      "realtime": "2026-09-24T07:57:56",
+      "delay": 40,
+      "canceled": false,
+      "route": {
+        "name": null,
+        "designation": "1",
+        "transport_mode_code": 700,
+        "transport_mode": "BUS",
+        "direction": "Lyckeby",
+        "origin": {
+          "id": "24181",
+          "name": "Saltö"
+        },
+        "destination": {
+          "id": "24508",
+          "name": "Lyckeby Slottsbacken"
+        }
+      },
+      "trip": {
+        "trip_id": "103001000026000001",
+        "start_date": "2026-09-24",
+        "technical_number": 26
+      },
+      "agency": {
+        "id": "505000000000000010",
+        "name": "Blekinge",
+        "operator": "Connect Bus"
+      },
+      "stop": {
+        "id": "24505",
+        "name": "Campus Gräsvik",
+        "lat": 56.180634,
+        "lon": 15.592908
+      },
+      "scheduled_platform": {
+        "id": "9022050024505002",
+        "designation": "B"
+      },
+      "realtime_platform": {
+        "id": "9022050024505002",
+        "designation": "B"
+      },
+      "alerts": [],
+      "is_realtime": true
+    },
+    {
+      "scheduled": "2026-09-24T08:00:39",
+      "realtime": "2026-09-24T08:01:12",
+      "delay": 33,
+      "canceled": false,
+      "route": {
+        "name": null,
+        "designation": "1",
+        "transport_mode_code": 700,
+        "transport_mode": "BUS",
+        "direction": "Saltö",
+        "origin": {
+          "id": "24508",
+          "name": "Lyckeby Slottsbacken"
+        },
+        "destination": {
+          "id": "24181",
+          "name": "Saltö"
+        }
+      },
+      "trip": {
+        "trip_id": "103001000029000001",
+        "start_date": "2026-09-24",
+        "technical_number": 29
+      },
+      "agency": {
+        "id": "505000000000000010",
+        "name": "Blekinge",
+        "operator": "Connect Bus"
+      },
+      "stop": {
+        "id": "24505",
+        "name": "Campus Gräsvik",
+        "lat": 56.180634,
+        "lon": 15.592908
+      },
+      "scheduled_platform": {
+        "id": "9022050024505001",
+        "designation": "A"
+      },
+      "realtime_platform": {
+        "id": "9022050024505001",
+        "designation": "A"
+      },
+      "alerts": [],
+      "is_realtime": true
+    },
+    {
+      "scheduled": "2026-09-24T08:07:16",
+      "realtime": "2026-09-24T08:07:54",
+      "delay": 38,
+      "canceled": false,
+      "route": {
+        "name": null,
+        "designation": "1",
+        "transport_mode_code": 700,
+        "transport_mode": "BUS",
+        "direction": "Lyckeby",
+        "origin": {
+          "id": "24181",
+          "name": "Saltö"
+        },
+        "destination": {
+          "id": "24508",
+          "name": "Lyckeby Slottsbacken"
+        }
+      },
+      "trip": {
+        "trip_id": "103001000028000001",
+        "start_date": "2026-09-24",
+        "technical_number": 28
+      },
+      "agency": {
+        "id": "505000000000000010",
+        "name": "Blekinge",
+        "operator": "Connect Bus"
+      },
+      "stop": {
+        "id": "24505",
+        "name": "Campus Gräsvik",
+        "lat": 56.180634,
+        "lon": 15.592908
+      },
+      "scheduled_platform": {
+        "id": "9022050024505002",
+        "designation": "B"
+      },
+      "realtime_platform": {
+        "id": "9022050024505002",
+        "designation": "B"
+      },
+      "alerts": [],
+      "is_realtime": true
+    },
+    {
+      "scheduled": "2026-09-24T08:10:39",
+      "realtime": "2026-09-24T08:11:12",
+      "delay": 33,
+      "canceled": false,
+      "route": {
+        "name": null,
+        "designation": "1",
+        "transport_mode_code": 700,
+        "transport_mode": "BUS",
+        "direction": "Saltö",
+        "origin": {
+          "id": "24508",
+          "name": "Lyckeby Slottsbacken"
+        },
+        "destination": {
+          "id": "24181",
+          "name": "Saltö"
+        }
+      },
+      "trip": {
+        "trip_id": "103001000031000001",
+        "start_date": "2026-09-24",
+        "technical_number": 31
+      },
+      "agency": {
+        "id": "505000000000000010",
+        "name": "Blekinge",
+        "operator": "Connect Bus"
+      },
+      "stop": {
+        "id": "24505",
+        "name": "Campus Gräsvik",
+        "lat": 56.180634,
+        "lon": 15.592908
+      },
+      "scheduled_platform": {
+        "id": "9022050024505001",
+        "designation": "A"
+      },
+      "realtime_platform": {
+        "id": "9022050024505001",
+        "designation": "A"
+      },
+      "alerts": [],
+      "is_realtime": true
+    },
+    {
+      "scheduled": "2026-09-24T08:17:16",
+      "realtime": "2026-09-24T08:17:56",
+      "delay": 40,
+      "canceled": false,
+      "route": {
+        "name": null,
+        "designation": "1",
+        "transport_mode_code": 700,
+        "transport_mode": "BUS",
+        "direction": "Lyckeby",
+        "origin": {
+          "id": "24181",
+          "name": "Saltö"
+        },
+        "destination": {
+          "id": "24508",
+          "name": "Lyckeby Slottsbacken"
+        }
+      },
+      "trip": {
+        "trip_id": "103001000030000001",
+        "start_date": "2026-09-24",
+        "technical_number": 30
+      },
+      "agency": {
+        "id": "505000000000000010",
+        "name": "Blekinge",
+        "operator": "Connect Bus"
+      },
+      "stop": {
+        "id": "24505",
+        "name": "Campus Gräsvik",
+        "lat": 56.180634,
+        "lon": 15.592908
+      },
+      "scheduled_platform": {
+        "id": "9022050024505002",
+        "designation": "B"
+      },
+      "realtime_platform": {
+        "id": "9022050024505002",
+        "designation": "B"
+      },
+      "alerts": [],
+      "is_realtime": true
+    },
+    {
+      "scheduled": "2026-09-24T08:21:39",
+      "realtime": "2026-09-24T08:22:02",
+      "delay": 23,
+      "canceled": false,
+      "route": {
+        "name": null,
+        "designation": "1",
+        "transport_mode_code": 700,
+        "transport_mode": "BUS",
+        "direction": "Saltö",
+        "origin": {
+          "id": "24508",
+          "name": "Lyckeby Slottsbacken"
+        },
+        "destination": {
+          "id": "24181",
+          "name": "Saltö"
+        }
+      },
+      "trip": {
+        "trip_id": "103001000033000001",
+        "start_date": "2026-09-24",
+        "technical_number": 33
+      },
+      "agency": {
+        "id": "505000000000000010",
+        "name": "Blekinge",
+        "operator": "Connect Bus"
+      },
+      "stop": {
+        "id": "24505",
+        "name": "Campus Gräsvik",
+        "lat": 56.180634,
+        "lon": 15.592908
+      },
+      "scheduled_platform": {
+        "id": "9022050024505001",
+        "designation": "A"
+      },
+      "realtime_platform": {
+        "id": "9022050024505001",
+        "designation": "A"
+      },
+      "alerts": [],
+      "is_realtime": true
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "timestamp": "2026-09-24T07:24:01",
+  "query": {
+    "queryTime": "2026-09-24T07:24:01",
+    "query": "Campus Gräsvik"
+  },
+  "stop_groups": [
+    {
+      "id": "740032188",
+      "name": "Karlskrona campus Gräsvik",
+      "area_type": "RIKSHALLPLATS",
+      "average_daily_stop_times": 178.05,
+      "transport_modes": [
+        "BUS"
+      ],
+      "stops": [
+        {
+          "id": "24505",
+          "name": "Campus Gräsvik",
+          "lat": 56.180634,
+          "lon": 15.592908
+        }
+      ]
+    }
+  ]
+}
