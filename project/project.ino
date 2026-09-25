@@ -117,18 +117,6 @@ static int8_t connect_wifi()
     return 0;
 
   }
-
-  //this down below will be replaced with switch/case
-  if (WiFi.status() == WL_CONNECTED) {
-    Serial.println("WiFi connected.");
-    ipv4 = WiFi.localIP();
-    Serial.println(ipv4);
-  }
-  else {
-    Serial.println("WiFi could not connect (timeout).");
-    wl_status_t stat = WiFi.status();
-    Serial.println(stat); //troubleshooting data
-  }
 }
 
 // Must have function: Setup is run once on startup
