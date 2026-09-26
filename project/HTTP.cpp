@@ -78,6 +78,8 @@ bool stop_lookup (String user_input) //The API allows to lookup (!!) stops. With
     
     String url = String("https://realtime-api.trafiklab.se/v1/stops/name/") + user_input + "/?key=" + API_KEY;
 
+    http.begin(url);
+    
     int http_code = http.GET();
 
     int short_code = http_code/100;
