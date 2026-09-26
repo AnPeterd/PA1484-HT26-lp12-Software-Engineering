@@ -9,7 +9,8 @@
 #include <lvgl.h>
 
 #include "secrets.h"
-#include "API.hpp"
+#include "WiFi.hpp"
+#include "HTTP.hpp"
 
 LilyGo_Class amoled;
 

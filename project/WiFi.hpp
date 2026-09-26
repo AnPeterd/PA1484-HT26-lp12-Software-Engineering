@@ -3,7 +3,6 @@
 #include <HTTPClient.h>
 #include <time.h>
 
-bool request_send(String stop_id);
 
 void troubleshoon_network(int8_t code);
 
